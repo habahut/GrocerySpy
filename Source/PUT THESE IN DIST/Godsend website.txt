@@ -1,0 +1,1 @@
+http://pygame.org/wiki/Pygame2exe
